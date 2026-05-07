@@ -1,0 +1,11 @@
+packages:
+  - package: dbt-labs/codegen
+    version: 0.14.0
+
+packages:
+  - package: dbt-labs/audit_helper
+    version: 0.12.2
+    
+# packages:
+#   - package: windsor-ai/dbt_facebook_ads
+#     version: 0.0.2
